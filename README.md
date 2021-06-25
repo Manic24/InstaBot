@@ -1,1 +1,1 @@
-# InstaBot
+pip install instabot
